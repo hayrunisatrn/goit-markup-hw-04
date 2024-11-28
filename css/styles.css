@@ -484,7 +484,10 @@ ul {
     display: flex;
     align-items: baseline;
     margin-right: 120px;
+}
 
+.footer-div {
+    margin-right: 120px;
 }
 
 .footer-social-p {
